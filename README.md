@@ -1,14 +1,14 @@
-# 📧 Email Automation Tool
+ Email Automation Tool
 
 A Python script that sends emails via Gmail's SMTP server using secure SSL encryption.
 
-## 🚀 Features
+ Features
 - Secure email sending with `smtplib` and `ssl`
 - Supports subject, body, and attachments
 - Easily configurable using environment variables
 - Lightweight and beginner-friendly
 
-## 🛠️ Setup & Usage
+ Setup & Usage
 
 1. Clone the repo:
    ```bash
